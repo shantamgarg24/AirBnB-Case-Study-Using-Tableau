@@ -7,10 +7,10 @@ Identify the optimal types of hosts to acquire and determine their preferred loc
 
 ###    2.Customer Segmentation: 
 Categorize customers based on their preferences to gain insights such as:
-       * Targeted neighborhoods for marketing efforts.
-       * Preferred pricing ranges for different customer segments.
-       * Various property types that align with customer preferences.
-       * Recommendations for property adjustments to enhance customer satisfaction.
+      * Targeted neighborhoods for marketing efforts.
+      * Preferred pricing ranges for different customer segments.
+      * Various property types that align with customer preferences.
+      * Recommendations for property adjustments to enhance customer satisfaction.
 
 ###    3.Popular Locations and Properties: 
 Visualize the current popular localities and properties in New York to leverage their success.
